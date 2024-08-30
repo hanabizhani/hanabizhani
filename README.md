@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hanabizhani
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on anything new
+- 🌱 I’m looking to collaborate on anything new
 - 📫 You can reach me via gmail
 
 <!---
